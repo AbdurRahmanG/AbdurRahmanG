@@ -42,9 +42,9 @@ S.S. HIGH SCHOOL BHANDAR - PATNA, INDIA
 # SKILLS
 
 #JAVASCRIPT
+#Bootstrap
 #CSS
 #HTML
-#Bootstrap
 
 #WordPress
 
