@@ -26,7 +26,7 @@ www.abdurrahmang.com
 
 
 # PROFILE
-Seeking a position to apply the knowledge that I have learned and explore abilities, skills, towards my duties and to excel in field of Android.
+Seeking a position to apply the knowledge that I have learned and explore abilities, skills, towards my duties and to excel in field of Web Development.
 
 
 # EDUCATION
