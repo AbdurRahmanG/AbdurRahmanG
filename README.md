@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 # ABDURRAHMAN G
 
-# ANDROID DEVELOPER
+# FULL STACK DEVELOPER
 
 (+91) 8825164657
-abdurrahmangcontact@gmail.com
+
+abdurrahmangofficial@gmail.com
+
 www.abdurrahmang.com
 
 
