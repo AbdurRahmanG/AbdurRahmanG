@@ -5,20 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Android with Java and Kotlin
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Techily Fly ...
+- 🌱 I’m currently learning Full Stack Web Development ...
+- 👯 I’m looking to collaborate on Full Stack Web Development ...
+- 🤔 I’m looking for help with Full Stack Web Development ...
+- 💬 Ask me about Full Stack Web Development ...
 - 📫 How to reach me: +91 8825164657 or abdurrahmangofficial@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: AbdurRahman Ji ...
+- ⚡ Fun fact: Content Creation ...
 -->
 
 
 # ABDURRAHMAN G
 
-# FULL STACK DEVELOPER
+# SOFTWARE ENGINEER (FULL STACK DEVELOPER)
 
 (+91) 8825164657
 
@@ -40,46 +40,48 @@ Computer Engineering (72.30%).
 S.S. HIGH SCHOOL BHANDAR - PATNA, INDIA
 (66.00%).
 
+==================================================
+==================================================
 
 # SKILLS
+* JAVASCRIPT
+* CSS
+* HTML
+-----
+* WordPress
+-----
+* DIGITAL MARKETING
 
-#JAVASCRIPT
-#Bootstrap
-#CSS
-#HTML
-
-#WordPress
-
-#DIGITAL MARKETING
-
-#JAVA
-#ANDROID
-
-
+==================================================
+==================================================
 
 # EXPERIENCE
+IDEA RISE TECHNOLOGIES - June 2020 – July 2021
+FRONT END DEVELOPER - MUMBAI, INDIA
+With Idea Rise Technologies, I have learned lots of things Like: How to Design a Website Using HTML, CSS and JavaScript. :
+•	I have desined many projects using HTML, CSS and JavaScript.
+All Projects (( https://www.AbdurRahmanG.com ))
 
 PIXEL TRACK DIGITAL PVT. LTD.  - March 2020 – June 2020
 DIGITAL MARKETING INTERNSHIP.  – ONLINE, INDIA
 From Digital Marketing Internship, I learned How to write post and do SEO and How to use AdWords and Facebook Ads. Also I learned how to get Organic Traffic on our Website. :
 •	I have desined and applied some SEO on my Website
+All Projects (( https://www.AbdurRahmanG.com ))
 
-IDEA RISE TECHNOLOGIES - June 2019 – July 2019
-FRONT END DEVELOPER - MUMBAI, INDIA
-With Idea Rise Technologies, I have learned lots of things Like: How to Design a Website Using HTML, CSS and JavaScript. Also Learned How to Use Bootstrap 4 to Design awesome website with basic effort. :
-•	I have desined some projects using HTML, CSS and JavaScript and Also with Bootstrap 4
-
+==================================================
+==================================================
 
 # PROJECTS:
-Calculator: Designed using Java Programming Language and Android Studio
-All Projects ( https://AbdurRahmanG.com/Projects )
+All Projects (( https://www.AbdurRahmanG.com ))
 
+==================================================
+==================================================
 
 # INTERESTS
+* LEARNING NEW TECHNOLOGIES
+* BOOK READING AND LISTENING
+* CONTENT CREATION
+* TRAVELLING
 
-#LEARNING NEW TECHNOLOGIES
-#AUDIO BOOK LISTENING
-#VIDEO CREATING
-#TRAVELLING
 
-
+Contact - https://www.abdurrahmang.com/p/contact.html
