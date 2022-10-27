@@ -61,20 +61,20 @@ FRONT END DEVELOPER - MUMBAI, INDIA
 With Idea Rise Technologies, I have learned lots of things Like: How to Design a Website Using HTML, CSS and JavaScript. :
 
 •	I have desined many projects using HTML, CSS and JavaScript.
-All Projects (( https://www.AbdurRahmanG.com ))
+All Projects (( https://www.AbdurRahmanG.com/projects ))
 
 PIXEL TRACK DIGITAL PVT. LTD.  - March 2020 – June 2020
 DIGITAL MARKETING INTERNSHIP.  – ONLINE, INDIA
 From Digital Marketing Internship, I learned How to write post and do SEO and How to use AdWords and Facebook Ads. Also I learned how to get Organic Traffic on our Website. :
 
 •	I have desined and applied some SEO on my Website
-All Projects (( https://www.AbdurRahmanG.com ))
+All Projects (( https://www.AbdurRahmanG.com/projects ))
 
 ==================================================
 ==================================================
 
 # PROJECTS:
-All Projects (( https://www.AbdurRahmanG.com ))
+All Projects (( https://www.AbdurRahmanG.com/projects ))
 
 ==================================================
 ==================================================
@@ -86,4 +86,4 @@ All Projects (( https://www.AbdurRahmanG.com ))
 * TRAVELLING
 
 
-Contact - https://abdurrahmang.com/contact.html
+Contact - https://abdurrahmang.com/contact
