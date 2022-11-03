@@ -12,16 +12,20 @@ This is the Title and Description of the section like here is About Me. Once any
   AbdurRahman G is A Software Engineer (Full Stack Developer) and An Orator, An Entrepreneur, A Digital Creator, A Digital Marketer, An Influencer.
 </details>
 
-
+<br>
 
 <!-- Sociel Media -->
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/@AbdurRahmanG)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://AbdurRahmanGOfficial.blogspot.com)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://AbdurRahmanG.github.io)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdurRahmanGOfficial)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/AbdurRahmanGOfficial)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AbdurRahmanGOfficial@gmail.com)
-<br><br>
+<p align="center">Feel free reaching out to me at following platforms:</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@AbdurRahmanG"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://www.instagram.com/AbdurRahmanGOfficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://twitter.com/AbdurRahmanG_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AbdurRahmanG&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
