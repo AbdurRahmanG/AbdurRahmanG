@@ -18,12 +18,33 @@ This is the Title and Description of the section like here is About Me. Once any
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@AbdurRahmanG"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="http://youtube.com/TechCutting?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="AbdurRahman G's YouTube channel"/>
+  </a>
+  <a href="http://twitter.com/AbdurRahmanG_">
+    <img src="https://img.shields.io/twitter/follow/AbdurRahmanG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
+  </a>
+<a href="https://www.linkedin.com/in/AbdurRahmanGOfficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
   <a href="https://www.instagram.com/AbdurRahmanGOfficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://twitter.com/AbdurRahmanG_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<br>
+
+### Latest YouTube videos
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<tr>
+<td><a href="https://www.youtube.com/watch?v=52VqF9zxWuY"><img width="140px" src="https://i.ytimg.com/vi/52VqF9zxWuY/mqdefault.jpg"></a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=52VqF9zxWuY">Short Intro of What We Are Going To Do Next | Software Engineering Course | Web Development Course</a> (Oct 19, 2022)<br/>
+</td>
+</tr>
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 <br>
 
@@ -83,6 +104,34 @@ This is the Title and Description of the section like here is About Me. Once any
 <a href='https://ko-fi.com/abdurrahmang' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href='https://www.buymeacoffee.com/abdurrahmang' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support AbdurRahman G on buymecoffee' /></a>
 </p>
+
+<!--
+### Testimonials
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
+    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
+    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
+    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
+    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
+  </tr>
+</table>
+
+-->
 
   
 <!-- GitHub States -->
