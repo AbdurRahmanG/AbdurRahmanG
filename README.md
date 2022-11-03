@@ -1,5 +1,5 @@
 <!-- Main header image -->
-[![AbdurRahman G] (https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman G")](https://abdurrahmang.com)
+[![AbdurRahman G](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman G")](https://abdurrahmang.com)
 
 <!-- This is Main Heading of the page -->
 # Welcome to AbdurRahmanG.com
