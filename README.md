@@ -18,7 +18,7 @@ This is the Title and Description of the section like here is About Me. Once any
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
-  <a href="http://youtube.com/TechCutting?sub_confirmation=1">
+  <a href="http://youtube.com/@TechCutting">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?style=for-the-badge&logo=youtube&label=Youtube&color=FF0000" alt="AbdurRahman G's YouTube channel"/>
   </a>
   <a href="http://twitter.com/AbdurRahmanG_">
@@ -61,10 +61,12 @@ This is the Title and Description of the section like here is About Me. Once any
 
 
 <!-- Libraries & Frameworks which I know -->
+<!--
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+-->
 
 <!--
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -138,6 +140,6 @@ This is the Title and Description of the section like here is About Me. Once any
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdurrahmang&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmang&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdurRahmanG&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRahmanG&theme=tokyonight" />
 </p>
