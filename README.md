@@ -43,10 +43,10 @@ Sociel Media
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/AbdurRahmanGOfficial">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=#E4405F">
   </a>
   <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com">
-  <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
   </a>
 </p>
 
