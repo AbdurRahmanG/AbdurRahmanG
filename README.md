@@ -139,7 +139,9 @@ This is the Title and Description of the section like here is About Me. Once any
 <!-- GitHub States -->
 ## 📈 Stats
 <p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdurRahmanG&count_private=true&show_icons=true&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRahmanG&count_private=true&theme=tokyonight" />
+	<img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRahmanG&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdurRahmanG&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRahmanG&theme=tokyonight" />
+	
 </p>
