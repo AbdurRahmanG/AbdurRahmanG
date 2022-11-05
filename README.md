@@ -34,20 +34,30 @@ Sociel Media
 
 <p align="center">
   <a href="http://youtube.com/@TechCutting">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=Subscribe&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman G's YouTube channel"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman G's YouTube channel"/>
   </a>
   <a href="http://twitter.com/AbdurRahmanG_">
-    <img src="https://img.shields.io/twitter/follow/AbdurRahmanG_?label=Follow&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/AbdurRahmanG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/AbdurRahmanGOfficial">
   <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=#E4405F">
   </a>
+  <a href="https://www.facebook.com/AbdurRahmanGOfficial">
+  <img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=#EA4335">
+  </a>
+  <a href="https://wa.me/918825164657">
+  <img src="https://img.shields.io/badge/whatsapp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=#EA4335">
+  </a>
   <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com">
   <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
   </a>
+	
 </p>
 
 
