@@ -60,7 +60,7 @@ Sociel Media
   <a href="https://telegram.dog/AbdurRahmanGDotCom" target="_blank">
   <img src="https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=#EA4335">
   </a>
-  <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com" target="_blank">
+  <a href="mailto:AbdurRahmanGOfficial@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
   </a>
 	
