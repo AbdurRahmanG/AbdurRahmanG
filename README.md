@@ -33,34 +33,34 @@ Sociel Media
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
-  <a href="http://youtube.com/@TechCutting">
+  <a href="http://youtube.com/@TechCutting" target="_blank">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman G's YouTube channel"/>
   </a>
-  <a href="http://twitter.com/AbdurRahmanG_">
+  <a href="http://twitter.com/AbdurRahmanG_" target="_blank">
     <img src="https://img.shields.io/twitter/follow/AbdurRahmanG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial">
+  <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/AbdurRahmanGOfficial">
+  <a href="https://www.instagram.com/AbdurRahmanGOfficial" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=#E4405F">
   </a>
-  <a href="https://www.facebook.com/AbdurRahmanGOfficial">
+  <a href="https://www.facebook.com/AbdurRahmanGOfficial" target="_blank">
   <img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=#EA4335">
   </a>
-  <a href="tel:5551234567">
-  <img src="https://img.shields.io/badge/whatsapp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=#EA4335">
+  <a href="https://abdurrahmang.slack.com" target="_blank">
+  <img src="https://img.shields.io/badge/slack-ffffff?style=for-the-badge&logo=slack&logoColor=#EA4335">
   </a>
   <a href="https://join.skype.com/invite/hj19SvHLlmTN">
   <img src="https://img.shields.io/badge/skype-ffffff?style=for-the-badge&logo=skype&logoColor=#EA4335">
   </a>
-  <a href="https://telegram.dog/AbdurRahmanGDotCom">
+  <a href="https://telegram.dog/AbdurRahmanGDotCom" target="_blank">
   <img src="https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=#EA4335">
   </a>
-  <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com">
+  <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
   </a>
 	
