@@ -51,8 +51,14 @@ Sociel Media
   <a href="https://www.facebook.com/AbdurRahmanGOfficial">
   <img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=#EA4335">
   </a>
-  <a href="https://wa.me/918825164657">
+  <a href="tel:5551234567">
   <img src="https://img.shields.io/badge/whatsapp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=#EA4335">
+  </a>
+  <a href="https://join.skype.com/invite/hj19SvHLlmTN">
+  <img src="https://img.shields.io/badge/skype-ffffff?style=for-the-badge&logo=skype&logoColor=#EA4335">
+  </a>
+  <a href="https://telegram.dog/AbdurRahmanGDotCom">
+  <img src="https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=#EA4335">
   </a>
   <a href="mailto:tom.AbdurRahmanGOfficial@gmail.com">
   <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
