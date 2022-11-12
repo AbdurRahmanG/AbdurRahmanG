@@ -119,8 +119,20 @@ Support link to get financial support
 -->
 ## 💰 Support
 <p>
-<a href='https://ko-fi.com/abdurrahmang' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/abdurrahmang' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support AbdurRahman G on buymecoffee' /></a>
+
+<a href='https://www.patreon.com/abdurrahmang' target='_blank'>
+	<img height='36' style='border:0px;height:36px;' src='https://cdn.cdnlogo.com/logos/p/91/patreon.svg' border='0' alt='Donate on Patreon' />
+</a>
+
+<br>
+
+<a href='https://ko-fi.com/abdurrahmang' target='_blank'>
+	<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
+<a href='https://www.buymeacoffee.com/abdurrahmang' target='_blank'>
+	<img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support AbdurRahman G on buymecoffee' />
+</a>
 </p>
 
 
