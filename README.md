@@ -83,15 +83,23 @@ Technologies Which I learnt
 ## ⚡ Technologies
 
 <!-- The Languages which I know -->
-### Language :
+### Languages :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+<!-- Libraries & Frameworks which I know -->
+
+### Libraries & Frameworks :
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 <!-- DevOps & Cloud Tools which I know -->
 ### DevOps & Cloud Tools:
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+
 
 
 <!--
