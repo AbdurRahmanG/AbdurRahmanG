@@ -93,6 +93,7 @@ Technologies Which I learnt
 ### Libraries & Frameworks :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
 
 <!-- DevOps & Cloud Tools which I know -->
 ### DevOps & Cloud Tools:
