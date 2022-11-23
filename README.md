@@ -54,6 +54,9 @@ Sociel Media
   <a href="https://join.slack.com/t/abdurrahmang/shared_invite/zt-1jn6ullp1-E8G1PyiH_WsJfTULfC6EJw   " target="_blank">
   <img src="https://img.shields.io/badge/slack-ffffff?style=for-the-badge&logo=slack&logoColor=#EA4335">
   </a>
+  <a href="https://discord.gg/S6NXhUDrJf" target="_blank">
+  <img src="https://img.shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=#EA4335">
+  </a>
   <a href="https://join.skype.com/invite/hj19SvHLlmTN">
   <img src="https://img.shields.io/badge/skype-ffffff?style=for-the-badge&logo=skype&logoColor=#EA4335">
   </a>
